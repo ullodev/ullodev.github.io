@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b03dc33.chunk.css",
-    "main.js": "/static/js/main.e1d22f48.chunk.js",
-    "main.js.map": "/static/js/main.e1d22f48.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e531b12c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e531b12c.js.map",
-    "static/js/2.d13a5acd.chunk.js": "/static/js/2.d13a5acd.chunk.js",
-    "static/js/2.d13a5acd.chunk.js.map": "/static/js/2.d13a5acd.chunk.js.map",
-    "static/js/3.5ffa7d91.chunk.js": "/static/js/3.5ffa7d91.chunk.js",
-    "static/js/3.5ffa7d91.chunk.js.map": "/static/js/3.5ffa7d91.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9b03dc33.chunk.css.map": "/static/css/main.9b03dc33.chunk.css.map",
-    "static/js/2.d13a5acd.chunk.js.LICENSE.txt": "/static/js/2.d13a5acd.chunk.js.LICENSE.txt",
-    "static/media/close.5024fa5e.svg": "/static/media/close.5024fa5e.svg",
-    "static/media/filter_first.ac45d12f.svg": "/static/media/filter_first.ac45d12f.svg"
+    "main.css": "/ullodev/static/css/main.9b03dc33.chunk.css",
+    "main.js": "/ullodev/static/js/main.e1d22f48.chunk.js",
+    "main.js.map": "/ullodev/static/js/main.e1d22f48.chunk.js.map",
+    "runtime-main.js": "/ullodev/static/js/runtime-main.4ec7b579.js",
+    "runtime-main.js.map": "/ullodev/static/js/runtime-main.4ec7b579.js.map",
+    "static/js/2.612c0195.chunk.js": "/ullodev/static/js/2.612c0195.chunk.js",
+    "static/js/2.612c0195.chunk.js.map": "/ullodev/static/js/2.612c0195.chunk.js.map",
+    "static/js/3.5ffa7d91.chunk.js": "/ullodev/static/js/3.5ffa7d91.chunk.js",
+    "static/js/3.5ffa7d91.chunk.js.map": "/ullodev/static/js/3.5ffa7d91.chunk.js.map",
+    "index.html": "/ullodev/index.html",
+    "static/css/main.9b03dc33.chunk.css.map": "/ullodev/static/css/main.9b03dc33.chunk.css.map",
+    "static/js/2.612c0195.chunk.js.LICENSE.txt": "/ullodev/static/js/2.612c0195.chunk.js.LICENSE.txt",
+    "static/media/close.5024fa5e.svg": "/ullodev/static/media/close.5024fa5e.svg",
+    "static/media/filter_first.ac45d12f.svg": "/ullodev/static/media/filter_first.ac45d12f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e531b12c.js",
-    "static/js/2.d13a5acd.chunk.js",
+    "static/js/runtime-main.4ec7b579.js",
+    "static/js/2.612c0195.chunk.js",
     "static/css/main.9b03dc33.chunk.css",
     "static/js/main.e1d22f48.chunk.js"
   ]
