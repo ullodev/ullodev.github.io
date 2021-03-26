@@ -1,0 +1,35 @@
+.top p {
+    text-align: center;
+}
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+}
+
+.flex-alignment {
+    display: flex;
+}
+
+.padding-alignment {
+    padding: 0 20px;
+}
+
+.finance-block, .kuxna-block p {
+    color: grey;
+}
+
+.kuxna-block {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.kuxna-block .flex-alignment {
+    flex-wrap: wrap;
+}
+
+.buttonMenuText {
+    text-align: center;
+    color: white;
+}
